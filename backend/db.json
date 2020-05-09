@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Lápis",
+      "price": "5.2",
+      "id": 10
+    },
+    {
+      "name": "Mouse",
+      "price": "55.20",
+      "id": 12
+    },
+    {
+      "name": "Sapato",
+      "price": "88.22",
+      "id": 13
+    },
+    {
+      "name": "óculos",
+      "price": "230.00",
+      "id": 15
+    },
+    {
+      "name": "Papel",
+      "price": "5.00",
+      "id": 16
+    },
+    {
+      "name": "daoalala",
+      "price": "45489",
+      "id": 17
+    }
+  ]
+}
